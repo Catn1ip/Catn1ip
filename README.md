@@ -12,8 +12,8 @@
 - Ferramentas: Git, VS Code, Docker  
 
 ## 📂 Projetos em destaque
-- [https://github.com/Brondani-7/TCC](link) – Trabalho de conclusão do curso Desenvolvimento de Sistemas
-- [https://github.com/JuanTaborda24/Drogaria_Cesar](link) – Sistema de farmácia para um trabalho de Programação no Desenvolvimento de Sistemas 
+- [cienciadedados](https://github.com/Catn1ip/cienciadedados) – Trabalhos de ciência de dados, cógidos para calcular preços após descontos
+- [banco-de-dados2](https://github.com/Catn1ip/banco-de-dados2) – Trabalhos de Banco e dados sobre regressão linear 
 
 ## 📫 Contato
 - Email: Ludmilarosaadj@gmail.com
