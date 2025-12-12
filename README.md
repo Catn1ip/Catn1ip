@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá, eu sou Ludmila 
 
-<!--
-**Catn1ip/Catn1ip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim
+- 🎓 Estudante de Desenvolvimento de Sistemas  
+- 💻 Experiência em projetos acadêmicos e pessoais com JavaScript, HTML, Python  
+- 🌱 Atualmente aprendendo sobre desenvolvimento com tutorias de indianos no youtube
+- 🎯 Objetivo: atuar como Engenheira Mecânica mantendo a experiência como desenvolvedor somente no curriculo  
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
+- Linguagens: Java, Python, JavaScript  
+- Banco de Dados: MySQL, PostgreSQL  
+- Ferramentas: Git, VS Code, Docker  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projetos em destaque
+- [Sistema de Biblioteca](link) – CRUD completo em Java com MySQL  
+- [Aplicativo de Tarefas](link) – Frontend em React integrado a API REST  
+
+## 📫 Contato
+- Email: carla.silva@exemplo.com  
+- LinkedIn: [https://www.linkedin.com/in/ludmila-rosa-a31554364/](link)
+- GitHub: [https://github.com/Catn1ip](link)
+
+---
+✨ Este README foi pensado para **Amigos e colegas**, para compartilhar conhecimento. experiências e ajuda.
+
