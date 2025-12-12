@@ -4,7 +4,7 @@
 - 🎓 Estudante de Desenvolvimento de Sistemas  
 - 💻 Experiência em projetos acadêmicos e pessoais com JavaScript, HTML, Python  
 - 🌱 Atualmente aprendendo sobre desenvolvimento com tutorias de indianos no youtube
-- 🎯 Objetivo: atuar como Engenheira Mecânica mantendo a experiência como desenvolvedor somente no curriculo  
+- 🎯 Objetivo: atuar como Engenheira Mecânica mantendo a experiência como desenvolvedora somente no curriculo  
 
 ## 🛠️ Tecnologias
 - Linguagens: Java, Python, JavaScript  
@@ -12,8 +12,8 @@
 - Ferramentas: Git, VS Code, Docker  
 
 ## 📂 Projetos em destaque
-- [Sistema de Biblioteca](link) – CRUD completo em Java com MySQL  
-- [Aplicativo de Tarefas](link) – Frontend em React integrado a API REST  
+- [https://github.com/Brondani-7/TCC](link) – Trabalho de conclusão do curso Desenvolvimento de Sistemas
+- [https://github.com/JuanTaborda24/Drogaria_Cesar](link) – Sistema de farmácia para um trabalho de Programação no Desenvolvimento de Sistemas 
 
 ## 📫 Contato
 - Email: carla.silva@exemplo.com  
