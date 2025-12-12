@@ -1,5 +1,7 @@
 # 👋 Olá, eu sou Ludmila 
 
+<img align='center' src="https://github.com/Catn1ip/Catn1ip/blob/main/octocat-1765569121880.png" width="215">
+
 ## 🚀 Sobre mim
 - 🎓 Estudante de Desenvolvimento de Sistemas  
 - 💻 Experiência em projetos acadêmicos e pessoais com JavaScript, HTML, Python  
