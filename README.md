@@ -16,7 +16,7 @@
 - [https://github.com/JuanTaborda24/Drogaria_Cesar](link) – Sistema de farmácia para um trabalho de Programação no Desenvolvimento de Sistemas 
 
 ## 📫 Contato
-- Email: carla.silva@exemplo.com  
+- Email: Ludmilarosaadj@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/ludmila-rosa-a31554364/](link)
 - GitHub: [https://github.com/Catn1ip](link)
 
